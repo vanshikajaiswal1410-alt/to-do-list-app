@@ -16,6 +16,6 @@ This is a simple To-Do List application built using Flutter.
 
 ## Author
 Vanshika Jaiswal
-## App Screenshot
+## App Screenshots
 
 ![To-Do App Screenshot](screenshots/output.png)
